@@ -1,0 +1,5 @@
+IaaS, PaaS, system and container orchestration deployment configurations and templates (docker-compose, kubernetes/helm, mesos, terraform, bosh). Note that in some repos (especially apps deployed with kubernetes) this directory is called /deploy.
+
+---
+
+IaaS, Paas, sistem ve konteyner orkestrasyon yayınlama konfigürasyonlarını ve şablonlarını (docker-compose, kubernetes/helm, mesos, terraform, bosh) bu klasöre koyabilirsiniz. Önemli olarak bazı projelerde (özellikle kubernetes ile yayınlanan projeler) bu klasörün adı /deploy olabilir.

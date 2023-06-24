@@ -1,0 +1,9 @@
+Additional external test apps and test data. Feel free to structure the /test directory anyway you want. For bigger projects it makes sense to have a data subdirectory. For example, you can have /test/data or /test/testdata if you need Go to ignore what's in that directory. Note that Go will also ignore directories or files that begin with "." or "_", so you have more flexibility in terms of how you name your test data directory.
+
+----
+
+Ek harici test uygulamaları ve test verileri. /test klasörünün içini istediğiniz gibi yapılandırmada özgür hissedin. Daha büyük projelerde test verileri için alt klasörler açmak mantıklı olabilir. Örneğin, eğer Go'nun test dosyalarını görmezden gelmesini istiyorsanız bu dosyalar için /test/data veya /test/testdata adlı klasörlere sahip olabilirsiniz. Not olarak Go "." veya "_" ile başlayan klasörleri ve dosyalarıda görmezden gelir, bu sayede test klasörlerinizi ve dosyalarınızı isimlendirmede daha esnek olabilirsiniz.
+
+Örnekler için /test klasörüne bakabilirsiniz.
+
+https://github.com/golang-standards/project-layout/blob/master/test/README.md

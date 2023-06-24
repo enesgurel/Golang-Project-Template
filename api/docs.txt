@@ -1,0 +1,7 @@
+OpenAPI/Swagger specs, JSON schema files, protocol definition files.
+
+https://github.com/golang-standards/project-layout/blob/master/api/README.md
+
+-------------------------
+
+OpenAPI/Swagger dosyaları, JSON şema dosyaları, protokol tanımlama dosyaları.

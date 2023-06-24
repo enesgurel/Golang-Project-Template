@@ -1,0 +1,9 @@
+Configuration file templates or default configs.
+
+Put your confd or consul-template template files here.
+
+------------------------------
+
+Konfigürasyon dosya şablonları veya varsayılan konfigürasyonlar.
+
+confd veya consul-template dosyalarını buraya koyabilirsiniz.
